@@ -1,4 +1,4 @@
-**HELLO 👋 I'M DIANA AND WELCOME TO MY GITHUB PAGE*
+*HELLO 👋 I'M DIANA AND WELCOME TO MY GITHUB PAGE*
 
 > This site is a simple space, but my own; take your time clicking around, and please do reach out!
 
